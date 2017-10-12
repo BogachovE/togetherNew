@@ -1,0 +1,26 @@
+/* 
+  Localizable.strings
+  together
+
+  Created by Евгений Богачев on 03.05.17.
+  Copyright © 2017 Attractive Products. All rights reserved.
+*/
+
+"Category" = "Category";
+"Celebretion" = "Celebretion";
+"Helping" = "Helping";
+" like your event " = " like your event ";
+"Unsubscrible" = "Unsubscrible";
+"Subscrible"   = "Subscrible";
+" subscribe on you" = " subscribe on you";
+"Share to whatsapp" = "Share to whatsapp";
+"Share to facebook" = "Share to facebook";
+"Share by email" = "Share by email";
+"Share to instagram" = "Share to instagram";
+"Share to twiter" = "Share to twiter";
+"Choose location" = "Choose location";
+"Unsubscrible" = "Unsubscrible";
+"Subscribe" = "Subscribe";
+"Edit" = "Edit";
+"Dell" = "Dell";
+
